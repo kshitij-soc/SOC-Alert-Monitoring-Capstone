@@ -228,8 +228,8 @@ Recommendation:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/kshitij333/soc-alert-monitoring-capstone.git
-cd soc-alert-monitoring-capstone
+git clone https://github.com/kshitij-soc/SOC-Alert-Monitoring-Capstone.git
+cd SOC-Alert-Monitoring-Capstone
 ```
 
 **2. Install dependencies**
@@ -295,7 +295,7 @@ cat reports/incident_report.md
 SOC Analyst Aspirant | Cybersecurity Enthusiast  
 
 📧 kshitij.randhire@gmail.com  
-💻 GitHub: https://github.com/kshitij-soc
+💻GitHub: [@kshitij-soc](https://github.com/kshitij-soc)
 
 ---
 
