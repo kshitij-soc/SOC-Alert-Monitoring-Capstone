@@ -186,41 +186,41 @@ Recommendation:
 
 | Windows IP Configuration | Kali Nmap Scan |
 |---|---|
-| ![Windows IP Config](Screenshots/01_Windows_IP_Config.png.webp) | ![Kali Nmap Scan](Screenshots/02_Kali_Nmap_Scan.png.png) |
+| ![Windows IP Config](Screenshots/01_Windows_IP_Config.webp) | ![Kali Nmap Scan](Screenshots/02_Kali_Nmap_Scan.png) |
 
 ### Endpoint & Network Telemetry
 
 | Sysmon — Process Creation (Event ID 1) | Sysmon — Network Connection (Event ID 3) |
 |---|---|
-| ![Sysmon Event ID 1](Screenshots/03_Sysmon_EventID1_Process_Creation.png.png) | ![Sysmon Event ID 3](Screenshots/04_Sysmon_EventID3_Network_Connection.png.webp) |
+| ![Sysmon Event ID 1](Screenshots/03_Sysmon_EventID1_Process_Creation.png) | ![Sysmon Event ID 3](Screenshots/04_Sysmon_EventID3_Network_Connection.webp) |
 
 | Failed Logon (Event ID 4625) | Successful Logon (Event ID 4624) |
 |---|---|
-| ![Failed Logon](Screenshots/05_EventID4625_Failed_Logon.png.jpeg) | ![Successful Logon](Screenshots/06_EventID4624_Successful_Logon.png.jpeg) |
+| ![Failed Logon](Screenshots/05_EventID4625_Failed_Logon.jpeg) | ![Successful Logon](Screenshots/06_EventID4624_Successful_Logon.jpeg) |
 
 | Wireshark TCP Handshake |
 |---|
-| ![Wireshark TCP Handshake](Screenshots/07_Wireshark_TCP_Handshake.png.png) |
+| ![Wireshark TCP Handshake](Screenshots/07_Wireshark_TCP_Handshake.png) |
 
 ### SOC Incident Analyzer (Tool)
 
 | Main Menu | Log Analysis |
 |---|---|
-| ![Analyzer Main Menu](Screenshots/08_IncidentAnalyzer_Main_Menu.png.jpeg) | ![Analyzer Log Analysis](Screenshots/09_IncidentAnalyzer_Log_Analysis.png.jpeg) |
+| ![Analyzer Main Menu](Screenshots/08_IncidentAnalyzer_Main_Menu.jpeg) | ![Analyzer Log Analysis](Screenshots/09_IncidentAnalyzer_Log_Analysis.jpeg) |
 
 | Dashboard | MITRE ATT&CK Mapping |
 |---|---|
-| ![Analyzer Dashboard](Screenshots/10_IncidentAnalyzer_Dashboard.png.jpeg) | ![Analyzer MITRE Mapping](Screenshots/11_IncidentAnalyzer_MITRE_Mapping.png.jpeg) |
+| ![Analyzer Dashboard](Screenshots/10_IncidentAnalyzer_Dashboard.jpeg) | ![Analyzer MITRE Mapping](Screenshots/11_IncidentAnalyzer_MITRE_Mapping.jpeg) |
 
 ### Generated Incident Report
 
 | Executive Summary | Incident Summary |
 |---|---|
-| ![Report Executive Summary](Screenshots/12_Report_Executive_Summary.png.jpeg) | ![Report Incident Summary](Screenshots/13_Report_Incident_Summary.png.jpeg) |
+| ![Report Executive Summary](Screenshots/12_Report_Executive_Summary.jpeg) | ![Report Incident Summary](Screenshots/13_Report_Incident_Summary.jpeg) |
 
 | Indicators of Compromise | Conclusion |
 |---|---|
-| ![Report IOCs](Screenshots/14_Report_IOCs.png.jpeg) | ![Report Conclusion](Screenshots/15_Report_Conclusion.png.jpeg) |
+| ![Report IOCs](Screenshots/14_Report_IOCs.jpeg) | ![Report Conclusion](Screenshots/15_Report_Conclusion.jpeg) |
 
 ---
 
