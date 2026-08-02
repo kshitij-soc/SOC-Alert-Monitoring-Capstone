@@ -206,7 +206,7 @@ Recommendation:
 
 | Main Menu | Log Analysis |
 |---|---|
-| ![Analyzer Main Menu](Screenshots/08_IncidentAnalyzer_Main_Menu.jpeg) | ![Analyzer Log Analysis](Screenshots/09_IncidentAnalyzer_Log_Analysis.jpeg) |
+| <img src="Screenshots/08_IncidentAnalyzer_Main_Menu.jpeg" width="500"> | ![Analyzer Log Analysis](Screenshots/09_IncidentAnalyzer_Log_Analysis.jpeg) |
 
 | Dashboard | MITRE ATT&CK Mapping |
 |---|---|
